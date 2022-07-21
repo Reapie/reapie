@@ -22,6 +22,7 @@ Catrgories I avoid:
  - crypo - the ones on my skill level are mostly just guessing too
 
 I enjoy doing a little trolling and building fuzzers ;)
+
 If you want to know something about the publicly uploaded things you can contact me on discord: Reapie#7412
 
 <!--
