@@ -5,7 +5,7 @@
 Technologies I use:
  - Java @ School
  - Python @ various CTF scripts
- - C/ASM @ Challenge creation
+ - C/ASM @ Challenge creation & learning
 
 Also very interested in overall low level stuff and optimisations.
 +Sidechannel enjoyer
